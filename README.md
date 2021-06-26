@@ -14,7 +14,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Vidly
+  cd vidly
 ```
 
 Install dependencies
